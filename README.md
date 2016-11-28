@@ -1,0 +1,1 @@
+# newsOOP.local
